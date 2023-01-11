@@ -5,7 +5,7 @@ label{
     position: absolute;
     width: 300px;
     font-size: 20px;
-    margin-top: 27px;
+    margin-top: 180px;
 margin-left: 50px; 
 }
 /* for type selector */
@@ -13,13 +13,13 @@ margin-left: 50px;
     position: absolute;
     font-size: 20px;
     margin-left: 300px;
-    margin-top: 10px;
+    margin-top: 160px;
     background-color: honeydew;
     color: green;
 }
 /* for single selector */
 div{
-    height: 600px;
+    height: 760px;
     width: 600px;
     color: rgb(116, 235, 46);
     position:absolute;
@@ -33,7 +33,7 @@ span{
 position: absolute;
     font-size: 20px;
     margin-left: 320px;
-    margin-top: 5px;
+    margin-top: 155px;
  
 } 
 /* for single class */
@@ -41,7 +41,7 @@ position: absolute;
     position: absolute;
     /* background-color: aqua !important;  it has higher priority */
     margin-left: 40px;
-    margin-top: -60px;
+    margin-top: 80px;
     background-color: rgb(105, 120, 232);
     width: 200px;
     height: 150px;
@@ -55,7 +55,8 @@ background-color: rgb(255, 208, 20);
 }
 img{
     position:absolute;
-    margin:20px 20px 40px 30px;
-    width: 40px;
-    width: 40px;
+    border-style: dashed;
+    margin:5px 20px 40px 200px;
+    width: 120px;
+    width: 120px;
 }
