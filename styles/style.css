@@ -53,3 +53,9 @@ position: absolute;
 body{
 background-color: rgb(255, 208, 20);
 }
+img{
+    position:absolute;
+    margin:20px 20px 40px 30px;
+    width: 40px;
+    width: 40px;
+}
