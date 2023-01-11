@@ -20,6 +20,7 @@ margin-left: 50px;
 /* for single selector */
 div{
     height: 600px;
+    color: white;
     width: 600px;
     position:absolute;
     background-color: rgb(105, 120, 232);
